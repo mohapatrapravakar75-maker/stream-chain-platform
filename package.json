@@ -5,5 +5,19 @@
   "scripts": {
     "setup": "npm install",
     "dev": "echo \"Start development server\""
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0",
+    "cors": "^2.8.5",
+    "ethers": "^6.16.0",
+    "express": "^5.2.1",
+    "ipfs-http-client": "^60.0.1",
+    "next": "^16.0.7",
+    "nsfwjs": "^4.2.1",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "tailwindcss": "^4.1.17",
+    "video.js": "^8.23.4",
+    "webtorrent": "^2.8.5"
   }
 }

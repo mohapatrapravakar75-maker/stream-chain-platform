@@ -1,1 +1,1 @@
-{"name":"streamchain-contracts"}
+{"name":"streamchain-contracts","dependencies":{"@nomiclabs/hardhat-ethers":"^2.2.3","@openzeppelin/contracts":"^5.4.0","hardhat":"^3.0.17"}}
