@@ -1,0 +1,9 @@
+{
+  "name": "streamchain-platform",
+  "version": "1.0.0",
+  "description": "Decentralized video streaming platform",
+  "scripts": {
+    "setup": "npm install",
+    "dev": "echo \"Start development server\""
+  }
+}
